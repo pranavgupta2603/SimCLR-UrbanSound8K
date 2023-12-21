@@ -30,12 +30,3 @@ The model was trained across multiple folds, showing consistent improvement in a
 This implementation showcases the effectiveness of SimCLR in a non-traditional domain like urban sound classification. The model achieves promising results, illustrating the power of self-supervised learning in audio processing.
 
 ---
-
-> 💡 Keep exploring the world of sound with deep learning! 🚀
-"""
-
-# Writing the updated README content to the file
-with open(readme_file_path, 'w', encoding='utf-8') as file:
-    file.write(updated_readme_content)
-
-readme_file_path
