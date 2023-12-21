@@ -1,6 +1,3 @@
-# Updating the README file to include information about the dataset and the GitHub repository
-
-updated_readme_content = """
 # SimCLR Implementation for UrbanSound8K Classification 🎵🏙️🤖
 
 ## Introduction
